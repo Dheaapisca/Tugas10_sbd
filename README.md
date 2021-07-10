@@ -9,4 +9,4 @@
 ### 2. Membuat Backup dengan mysqldump
 ![mysql DUMP](https://user-images.githubusercontent.com/81975529/125177784-e1bfef00-e208-11eb-888c-9d612bb346b4.PNG)
 ### SCRIPT CRONJOB BACKUP OTOMATIS SELAMA 12 JAM
-0 0 * * 7 mysqldump -u root -p78545 dheaapisca_311910775 > dheaapisca_311910775_backup.sql
+0 0 * * 7 mysqldump -u root -p78545 dheaapisca_311910755 > dheaapisca_311910755_backup.sql
